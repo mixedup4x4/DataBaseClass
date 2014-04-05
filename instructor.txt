@@ -1,0 +1,13 @@
+Instructor ID,Instructor First Name,Instructor Last Name, Instructor Address,Instructor City,Instructor State,Instructor Zip Code,Instructor Pay Scale,Year Hired, Tenured, Notes 
+225,Bill,Jones,3478 Main Ave,Orlando,FL,32801,15,2000,Yes,
+278,Kevin,Williams,178 244th ST,Orlando,FL,32817,29,2001,Yes,
+382,Paige,Kay,2344 Cascade Circle,Atlanta,GA,30303,33,1998,No,
+345,Naomi,Johnson,6977 Decatur Ave,Helena,MT,59601,40,1995,No,
+597,Randy,Kline,78 Broyles ST,Ventura,CA,93004,28,2006,No,
+461,Liz,Sadak,34 Edgewood Ave,Tucson,AZ,85712,35,2010,No,
+654,Kristina,Woods,2388 Broyles ST,Portland,OR,97217,35,2011,No,
+125,Jeannie,Callaway,110 Poplar ST,San Diego,CA,92111,23,2011,No,
+299,Chance,McKee,873 Piedmont Way,New York,NY,10018,31,2000,No,
+150,Wendy,Smith,877 Memorial Dr,Oxnard,CA,93007,29,2005,No,
+785,William,Jones,988 Northside Dr,Denver,CO,80202,31,2006,No,
+691,Jeff,Anderson,5588 Chapparal Rd,Phoenix,AZ,85011,27,2004,No,

@@ -1,0 +1,14 @@
+Course Number,Course Name,Course Prerequisites,Instructor ID
+114,Academic Strategies for the IT Professional,None
+221,Pathways to Academic Success,None,125
+117,Introduction to Web Design,None,225
+133,Software Applications,None,278
+163,Database Concepts using MS Access,133,654
+290,Foundations in Information Technology,None,597
+293,Foundations of Programming Using Visual Basic,None
+106,College Composition I,None,654
+207,College Composition II,CM106,461
+345,Website Development,117,125
+373,Networking Concepts,190,150
+331,Technology Infrastructure,190,785
+323,Introduction to Multimedia Using Adobe Flash,None,691
